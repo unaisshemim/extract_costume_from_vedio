@@ -1,0 +1,228 @@
+2025-10-23 14:33:37,607 - uvicorn.error - INFO - Will watch for changes in these directories: ['/Users/unaisshemim/Desktop/saas/fashion_designing']
+2025-10-23 14:33:37,608 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-10-23 14:33:37,608 - uvicorn.error - INFO - Started reloader process [71489] using WatchFiles
+2025-10-23 14:33:40,016 - uvicorn.error - INFO - Started server process [71504]
+2025-10-23 14:33:40,016 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-23 14:33:40,017 - uvicorn.error - INFO - Application startup complete.
+2025-10-23 14:33:41,877 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:33:41,879 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:33:41,940 - uvicorn.error - INFO - Shutting down
+2025-10-23 14:33:42,042 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-23 14:33:42,043 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-23 14:33:42,043 - uvicorn.error - INFO - Finished server process [71504]
+2025-10-23 14:33:42,749 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:33:43,167 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:33:44,579 - uvicorn.error - INFO - Started server process [71540]
+2025-10-23 14:33:44,580 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-23 14:33:44,580 - uvicorn.error - INFO - Application startup complete.
+2025-10-23 14:33:52,757 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:33:52,757 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:33:52,764 - uvicorn.error - INFO - Shutting down
+2025-10-23 14:33:52,866 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-23 14:33:52,868 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-23 14:33:52,869 - uvicorn.error - INFO - Finished server process [71540]
+2025-10-23 14:33:53,475 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:33:54,048 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:33:55,510 - uvicorn.error - INFO - Started server process [71592]
+2025-10-23 14:33:55,511 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-23 14:33:55,511 - uvicorn.error - INFO - Application startup complete.
+2025-10-23 14:34:03,633 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:34:03,633 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:34:03,692 - uvicorn.error - INFO - Shutting down
+2025-10-23 14:34:03,794 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-23 14:34:03,795 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-23 14:34:03,796 - uvicorn.error - INFO - Finished server process [71592]
+2025-10-23 14:34:04,415 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:34:04,990 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:34:06,389 - uvicorn.error - INFO - Started server process [71646]
+2025-10-23 14:34:06,389 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-23 14:34:06,390 - uvicorn.error - INFO - Application startup complete.
+2025-10-23 14:34:20,048 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:34:20,049 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:34:20,120 - uvicorn.error - INFO - Shutting down
+2025-10-23 14:34:20,222 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-23 14:34:20,224 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-23 14:34:20,225 - uvicorn.error - INFO - Finished server process [71646]
+2025-10-23 14:34:20,843 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:34:21,420 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:34:22,873 - uvicorn.error - INFO - Started server process [71726]
+2025-10-23 14:34:22,873 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-23 14:34:22,874 - uvicorn.error - INFO - Application startup complete.
+2025-10-23 14:34:40,688 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:34:40,689 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:34:40,760 - uvicorn.error - INFO - Shutting down
+2025-10-23 14:34:40,861 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-23 14:34:40,862 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-23 14:34:40,862 - uvicorn.error - INFO - Finished server process [71726]
+2025-10-23 14:34:41,482 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:34:42,005 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:34:43,482 - uvicorn.error - INFO - Started server process [71837]
+2025-10-23 14:34:43,483 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-23 14:34:43,483 - uvicorn.error - INFO - Application startup complete.
+2025-10-23 14:34:53,177 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:34:54,127 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:35:08,368 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:35:08,370 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:35:08,462 - uvicorn.error - INFO - Shutting down
+2025-10-23 14:35:08,564 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-23 14:35:08,565 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-23 14:35:08,566 - uvicorn.error - INFO - Finished server process [71837]
+2025-10-23 14:35:09,220 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:35:09,796 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:35:11,252 - uvicorn.error - INFO - Started server process [71996]
+2025-10-23 14:35:11,252 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-23 14:35:11,253 - uvicorn.error - INFO - Application startup complete.
+2025-10-23 14:35:24,526 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:35:24,527 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:35:24,602 - uvicorn.error - INFO - Shutting down
+2025-10-23 14:35:24,703 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-23 14:35:24,706 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-23 14:35:24,707 - uvicorn.error - INFO - Finished server process [71996]
+2025-10-23 14:35:25,407 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:35:25,990 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:35:27,562 - uvicorn.error - INFO - Started server process [72083]
+2025-10-23 14:35:27,563 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-23 14:35:27,563 - uvicorn.error - INFO - Application startup complete.
+2025-10-23 14:35:31,906 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:35:31,907 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:35:32,008 - uvicorn.error - INFO - Shutting down
+2025-10-23 14:35:32,110 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-23 14:35:32,111 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-23 14:35:32,111 - uvicorn.error - INFO - Finished server process [72083]
+2025-10-23 14:35:32,724 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:35:33,300 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:35:34,814 - uvicorn.error - INFO - Started server process [72131]
+2025-10-23 14:35:34,815 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-23 14:35:34,815 - uvicorn.error - INFO - Application startup complete.
+2025-10-23 14:35:57,153 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:35:57,154 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:35:57,254 - uvicorn.error - INFO - Shutting down
+2025-10-23 14:35:57,356 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-23 14:35:57,356 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-23 14:35:57,356 - uvicorn.error - INFO - Finished server process [72131]
+2025-10-23 14:35:57,962 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:35:58,482 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:35:59,934 - uvicorn.error - INFO - Started server process [72255]
+2025-10-23 14:35:59,934 - uvicorn.error - INFO - Waiting for application startup.
+2025-10-23 14:35:59,935 - uvicorn.error - INFO - Application startup complete.
+2025-10-23 14:36:17,075 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:36:17,077 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:36:17,108 - uvicorn.error - INFO - Shutting down
+2025-10-23 14:36:17,210 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-10-23 14:36:17,210 - uvicorn.error - INFO - Application shutdown complete.
+2025-10-23 14:36:17,211 - uvicorn.error - INFO - Finished server process [72255]
+2025-10-23 14:36:17,828 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:36:18,454 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:36:50,803 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:36:50,804 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:36:52,088 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:36:56,041 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:36:56,042 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:36:57,324 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:37:01,710 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:37:01,710 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:37:02,975 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:37:07,402 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:37:07,404 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:37:08,576 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:37:14,990 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:37:14,991 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:37:16,270 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:37:21,172 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:37:21,177 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:37:22,414 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:37:30,170 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:37:30,172 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:37:31,407 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:37:35,791 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:37:35,792 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:37:36,982 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:37:39,928 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:37:39,929 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:37:41,137 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:37:43,938 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:37:43,939 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:37:45,128 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:37:51,687 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:37:51,688 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:37:52,882 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:37:54,162 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:37:54,955 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:38:15,773 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:38:15,774 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:38:17,154 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:38:20,019 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:38:20,020 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:38:21,259 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:38:37,411 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:38:37,412 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 14:38:38,672 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:48:14,028 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:48:14,759 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 14:52:01,672 - watchfiles.main - INFO - 1 change detected
+2025-10-23 14:52:02,513 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:00:34,073 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:00:34,919 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:03:29,746 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:03:29,751 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:03:31,450 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:03:37,087 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:03:37,088 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:03:38,195 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:03:48,479 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:03:48,479 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:03:49,645 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:04:00,924 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:04:00,925 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:04:02,223 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:04:29,716 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:04:29,717 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:04:31,019 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:04:52,523 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:04:52,524 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:04:53,961 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:05:06,836 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:05:06,837 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:05:08,079 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:05:24,686 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:05:24,687 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:05:25,898 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:05:39,884 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:05:39,886 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:05:41,210 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:05:47,467 - watchfiles.main - INFO - 2 changes detected
+2025-10-23 15:05:47,468 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:05:48,254 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:05:48,830 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:05:49,190 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:05:49,190 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:05:55,264 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:05:55,265 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:05:56,116 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:06:01,468 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:06:01,469 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:06:02,768 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:07:38,199 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:07:38,205 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:07:39,985 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:07:55,190 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:07:55,190 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:07:56,470 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:08:32,824 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:08:32,824 - uvicorn.error - WARNING - WatchFiles detected changes in 'main.py'. Reloading...
+2025-10-23 15:08:34,077 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:29:57,968 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:29:58,873 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:30:14,213 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:30:16,945 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:30:18,553 - watchfiles.main - INFO - 2 changes detected
+2025-10-23 15:31:07,415 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:31:22,698 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:31:23,864 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:31:48,239 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:31:54,181 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:32:03,820 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:33:15,992 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:33:16,786 - watchfiles.main - INFO - 3 changes detected
+2025-10-23 15:33:17,141 - watchfiles.main - INFO - 1 change detected
+2025-10-23 15:33:47,823 - uvicorn.error - INFO - Stopping reloader process [71489]
