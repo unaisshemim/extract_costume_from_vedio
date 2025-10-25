@@ -15,18 +15,22 @@ WORKDIR /app
 # Add virtual environment path to PATH
 ENV PATH="/app/.venv/bin:$PATH"
 
+# Layer 1: Install system dependencies
 RUN apt-get update && apt-get install -y \
     libgl1 \
     libglib2.0-0 \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy dependency files
+# Layer 2: Copy dependency files
 COPY ./pyproject.toml ./uv.lock ./.python-version /app/
 
-# Install dependencies
-RUN uv sync
+# Layer 3: Install Python dependencies
+RUN uv sync --frozen --no-install-project
 
-# Copy app source code
+# Layer 4: Copy YOLO model files (for caching)
+COPY ./yolov8n-pose.pt ./yolov8n.pt /app/
+
+# Layer 5: Copy app source code
 COPY ./app /app/app
 
 # Expose the default FastAPI port
